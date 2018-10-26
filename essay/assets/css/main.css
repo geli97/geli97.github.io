@@ -1,0 +1,44 @@
+body {
+	font-family: arial;
+	width:50%
+}
+
+h1 {
+	color:red;
+	font-size:50px;
+	font-family:times;
+	letter-spacing:2px;
+	text-transform: uppercase;
+	font-weight: bold;
+	
+}
+
+p {
+
+}
+
+.author {
+	color:red;
+}
+
+.name {
+	color:blue;
+	font-family:times;
+	font-size: 30px;
+	width:50%;
+}
+
+.col-1 {
+color:blue;
+float: 50%
+}
+
+.col-2 {
+width:50%;
+}
+
+
+.col-3{
+	color:orange;
+	width:50%;
+}
